@@ -1,0 +1,15 @@
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\bin\Debug\net6.0\Les4-SelectionSort.exe
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\bin\Debug\net6.0\Les4-SelectionSort.deps.json
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\bin\Debug\net6.0\Les4-SelectionSort.runtimeconfig.json
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\bin\Debug\net6.0\Les4-SelectionSort.dll
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\bin\Debug\net6.0\Les4-SelectionSort.pdb
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\obj\Debug\net6.0\Les4-SelectionSort.csproj.AssemblyReference.cache
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\obj\Debug\net6.0\Les4-SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\obj\Debug\net6.0\Les4-SelectionSort.AssemblyInfoInputs.cache
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\obj\Debug\net6.0\Les4-SelectionSort.AssemblyInfo.cs
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\obj\Debug\net6.0\Les4-SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\obj\Debug\net6.0\Les4-SelectionSort.dll
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\obj\Debug\net6.0\refint\Les4-SelectionSort.dll
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\obj\Debug\net6.0\Les4-SelectionSort.pdb
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\obj\Debug\net6.0\Les4-SelectionSort.genruntimeconfig.cache
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les4-SelectionSort\obj\Debug\net6.0\ref\Les4-SelectionSort.dll
