@@ -1,0 +1,15 @@
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\obj\Debug\net6.0\Les5-BubbleSort.csproj.AssemblyReference.cache
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\obj\Debug\net6.0\Les5-BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\obj\Debug\net6.0\Les5-BubbleSort.AssemblyInfoInputs.cache
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\obj\Debug\net6.0\Les5-BubbleSort.AssemblyInfo.cs
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\obj\Debug\net6.0\Les5-BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\bin\Debug\net6.0\Les5-BubbleSort.exe
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\bin\Debug\net6.0\Les5-BubbleSort.deps.json
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\bin\Debug\net6.0\Les5-BubbleSort.runtimeconfig.json
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\bin\Debug\net6.0\Les5-BubbleSort.dll
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\bin\Debug\net6.0\Les5-BubbleSort.pdb
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\obj\Debug\net6.0\Les5-BubbleSort.dll
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\obj\Debug\net6.0\refint\Les5-BubbleSort.dll
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\obj\Debug\net6.0\Les5-BubbleSort.pdb
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\obj\Debug\net6.0\Les5-BubbleSort.genruntimeconfig.cache
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les5-BubbleSort\obj\Debug\net6.0\ref\Les5-BubbleSort.dll

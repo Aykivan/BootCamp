@@ -1,6 +1,6 @@
 public static class Infrastructure
 {
-
+    
     public static int[] CreateArray(this int size, int min = 0, int max = 10)
     // Метод отвечающий за создание массива
     {
