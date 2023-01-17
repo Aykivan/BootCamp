@@ -1,0 +1,15 @@
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\obj\Debug\net6.0\Les6-QuickSort.csproj.AssemblyReference.cache
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\obj\Debug\net6.0\Les6-QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\obj\Debug\net6.0\Les6-QuickSort.AssemblyInfoInputs.cache
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\obj\Debug\net6.0\Les6-QuickSort.AssemblyInfo.cs
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\obj\Debug\net6.0\Les6-QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\bin\Debug\net6.0\Les6-QuickSort.exe
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\bin\Debug\net6.0\Les6-QuickSort.deps.json
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\bin\Debug\net6.0\Les6-QuickSort.runtimeconfig.json
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\bin\Debug\net6.0\Les6-QuickSort.dll
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\bin\Debug\net6.0\Les6-QuickSort.pdb
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\obj\Debug\net6.0\Les6-QuickSort.dll
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\obj\Debug\net6.0\refint\Les6-QuickSort.dll
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\obj\Debug\net6.0\Les6-QuickSort.pdb
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\obj\Debug\net6.0\Les6-QuickSort.genruntimeconfig.cache
+C:\Users\IAyki\OneDrive\Рабочий стол\GB\1 четверть\ProgrammingBootcamp\Les6-QuickSort\obj\Debug\net6.0\ref\Les6-QuickSort.dll
